@@ -1,0 +1,2 @@
+# com.kodnest.hibernate.mtm
+ 
